@@ -1,5 +1,6 @@
 {
     "name": "ms.b’s big adventure 3",
+    "version": "1.0.0",
     "description": "the third game in my series! what will happen…?",
     "dependencies": {
         "device": "*",
